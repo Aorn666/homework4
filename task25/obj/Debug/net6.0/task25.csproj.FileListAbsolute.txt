@@ -1,0 +1,15 @@
+C:\Домашка\homework4\task25\obj\Debug\net6.0\task25.csproj.AssemblyReference.cache
+C:\Домашка\homework4\task25\obj\Debug\net6.0\task25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Домашка\homework4\task25\obj\Debug\net6.0\task25.AssemblyInfoInputs.cache
+C:\Домашка\homework4\task25\obj\Debug\net6.0\task25.AssemblyInfo.cs
+C:\Домашка\homework4\task25\obj\Debug\net6.0\task25.csproj.CoreCompileInputs.cache
+C:\Домашка\homework4\task25\bin\Debug\net6.0\task25.exe
+C:\Домашка\homework4\task25\bin\Debug\net6.0\task25.deps.json
+C:\Домашка\homework4\task25\bin\Debug\net6.0\task25.runtimeconfig.json
+C:\Домашка\homework4\task25\bin\Debug\net6.0\task25.dll
+C:\Домашка\homework4\task25\bin\Debug\net6.0\task25.pdb
+C:\Домашка\homework4\task25\obj\Debug\net6.0\task25.dll
+C:\Домашка\homework4\task25\obj\Debug\net6.0\refint\task25.dll
+C:\Домашка\homework4\task25\obj\Debug\net6.0\task25.pdb
+C:\Домашка\homework4\task25\obj\Debug\net6.0\task25.genruntimeconfig.cache
+C:\Домашка\homework4\task25\obj\Debug\net6.0\ref\task25.dll
